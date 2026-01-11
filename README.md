@@ -69,7 +69,6 @@ Extraction successful!
 属性: {'actor': '怪物', 'target': '玉帝'}
 ----
 ```
-# 参考
 
 # 参考
 [Langextract](https://github.com/google/langextract)
